@@ -26,15 +26,15 @@ class AboutTina:
         self.current_role           = "Cloud & DevOps Security Engineer"
         self.languages_spoken       = ["en_US", "fr_FR", "tl_PH"]
         self.pronouns               = ["she", "her", "hers", "elle"]
-        self.hobbies                = ["learning languages", "singing"]
-        self.favorite_shows         = ["HIMYM", "Mr. Robot", "Anime shows", "The Office"]
-        self.favorite_movie         = "Deadpool"
+        self.hobbies                = ["learning languages", "singing", "reading"]
+        self.favorite_shows         = ["HIMYM", "Mr. Robot", "Sailor Moon", "The Office"]
+        self.favorite_movie         = "Wicked"
     
     def technical_skills(self):
-        self.programming_languages  = ["Python", "C++", "HTML5", "CSS", "JavaScript"]
+        self.programming_languages  = ["Python", "C++", "HTML5", "CSS", "JavaScript", "OPA/Rego"]
         self.technologies           = {
-            "backend" : ["Django", "AWS Infrastructure"],
-            "ide" : ["PyCharm", "WebStorm", "Visual Studio Code"],
+            "backend" : ["AWS Infrastructure", "Wiz", "Harness"],
+            "ide" : ["Visual Studio Code"],
             "testing_frameworks" : ["unittest", "PyTest"]
         }
 
