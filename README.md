@@ -10,7 +10,7 @@
 [![](https://img.shields.io/badge/LinkedIn-kristinamarie-yellow)](https://www.linkedin.com/in/kristinamarielag/)
 [![](https://img.shields.io/badge/TikTok-@xtina3.0-blueviolet)](https://www.tiktok.com/@xtina3.0/)
 [![](https://img.shields.io/badge/Twitter-tinyxtina__-purple)](https://twitter.com/tinyxtina_)
-[![](https://img.shields.io/badge/Portfolio-kristinamarie.me-red)](https://www.kristinamarie.me/)
+[![](https://img.shields.io/badge/Portfolio-kristinalagasca.com-red)](https://www.kristinalagasca.com/)
 
 ## <img src='peachcat-cute.gif' width='50'>Here's a little bit more about me...</center>
 
